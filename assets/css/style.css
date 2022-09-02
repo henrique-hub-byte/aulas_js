@@ -61,7 +61,11 @@ tr,td {
     padding: 10px;
 }
 
-.resultado {
-    background: rgb(119, 255, 182);
+.paragrafo_resultado {
+    background: rgb(109, 255, 182);
     padding: 10px 20px;
+}
+
+.bad {
+    background: rgb(255, 150, 150);
 }
