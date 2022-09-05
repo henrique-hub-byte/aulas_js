@@ -1,4 +1,4 @@
-
+/* switch case */
 
 function getDiaSemanaTexto(diaSemana) {
     let diaSemanaTexto;

@@ -1,3 +1,5 @@
+/* if else parte 1 */
+
 /* const hora = 50;
 
 
